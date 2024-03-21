@@ -4,6 +4,11 @@
 }
 
 .content {
+  overflow: hidden;
   display: flex;
   justify-content: center;
+}
+
+.content img {
+  width: 100vw;
 }
