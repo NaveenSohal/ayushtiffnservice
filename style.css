@@ -3,6 +3,10 @@
   margin: 0;
 }
 
+body {
+  background-color: #252525;
+}
+
 .content {
   overflow: hidden;
   display: flex;
